@@ -104,12 +104,12 @@ I am continuously improving my technical skills through hands-on labs, cybersecu
 
 ## 📜 Certifications
 
-> Add your exact certification names and certificate links below.
+## 📜 Certifications
 
-* 🏆 **[Certification Name 1]** — [Issuing Organization]
-* 🏆 **[Certification Name 2]** — [Issuing Organization]
-* 🏆 **[Certification Name 3]** — [Issuing Organization]
-* 🏆 **[Certification Name 4]** — [Issuing Organization]
+- 🏆 **Cyber Security with AI**
+- 🏆 **Diploma in Computer Hardware and Maintenance**
+- 🏆 **ITI – Electrical Certification**
+- 🏆 **Microsoft Certified Technical Associate – Networking Fundamentals**
 
 ---
 
@@ -226,10 +226,16 @@ I regularly practice cybersecurity concepts using controlled environments and le
 
 I am always interested in connecting with people who are passionate about **Cyber Security, Networking, Ethical Hacking, and Technology**.
 
+## 🤝 Let's Connect
+
 <p align="center">
 
+<a href="YOUR-LINKEDIN-LINK">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=for-the-badge&logo=linkedin">
+</a>
+
 <a href="https://github.com/shankark121-alt">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github">
 </a>
 
 </p>
