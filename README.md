@@ -226,17 +226,14 @@ I am always interested in connecting with people who are passionate about **Cybe
 
 <p align="center">
 
-<a href="YOUR-LINKEDIN-LINK">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=for-the-badge&logo=linkedin">
+<a href="https://www.linkedin.com/in/SHANKAR-KULKARNI-YOUR-ID/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="https://github.com/shankark121-alt">
 <img src="https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github">
 </a>
-
 </p>
-
----
 
 ## ⭐ Support My Work
 
