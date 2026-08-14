@@ -210,12 +210,15 @@ I regularly practice cybersecurity concepts using controlled environments and le
 
 ## 📊 GitHub Profile
 
+## 📊 GitHub Profile
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shankark121-alt&show_icons=true&theme=tokyonight&hide_border=true" alt="Shankar's GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shankark121-alt&theme=github_dark" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankark121-alt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shankark121-alt&theme=github_dark" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shankark121-alt&theme=github_dark" width="49%">
 </p>
 
 ---
@@ -224,10 +227,16 @@ I regularly practice cybersecurity concepts using controlled environments and le
 
 I am always interested in connecting with people who are passionate about **Cyber Security, Networking, Ethical Hacking, and Technology**.
 
+## 🤝 Let's Connect
+
+I am always interested in connecting with people who are passionate about **Cyber Security, Networking, Ethical Hacking, and Technology**.
+
 <p align="center">
-  <a href="https://github.com/shankark121-alt">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github">
-  </a>
+
+<a href="https://github.com/shankark121-alt">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+</a>
+
 </p>
 
 ---
