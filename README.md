@@ -4,9 +4,9 @@
 
 <h1 align="center">🛡️ Shankar Madhukar Kulkarni</h1>
 
-<h3 align="center">
-  Cyber Security Student | Networking Enthusiast | Security Lab Practitioner
-</h3>
+<p align="center">
+  <img src="./cyber_security_profile_blink.gif" alt="Cyber Security Student | Networking Enthusiast | Security Lab Practitioner">
+</p>
 
 <p align="center">
   <a href="https://github.com/shankark121-alt">
