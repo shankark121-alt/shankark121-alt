@@ -171,7 +171,9 @@ A practical DVWA security lab covering **Local File Inclusion (LFI) and Remote F
 
 A practical DVWA project demonstrating **SQL Injection and Blind SQL Injection** at different security levels, including vulnerability testing, payload analysis, screenshots, and documentation.
 
-👉 [View Project](https://github.com/shankark121-alt/SQL-INJECTION-AND-BLIND-SQL-INJECTION-LAB)
+<a href="https://github.com/shankark121-alt/SQL-INJECTION-AND-BLIND-SQL-INJECTION-LAB">
+👉 View Project
+</a>
 
 ---
 
