@@ -208,7 +208,6 @@ I regularly practice cybersecurity concepts using controlled environments and le
 
 ---
 
-## 📊 GitHub Profile
 
 ## 📊 GitHub Profile
 
@@ -222,10 +221,6 @@ I regularly practice cybersecurity concepts using controlled environments and le
 </p>
 
 ---
-
-## 🤝 Let's Connect
-
-I am always interested in connecting with people who are passionate about **Cyber Security, Networking, Ethical Hacking, and Technology**.
 
 ## 🤝 Let's Connect
 
