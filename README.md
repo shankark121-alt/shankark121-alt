@@ -104,9 +104,7 @@ I am continuously improving my technical skills through hands-on labs, cybersecu
 
 ## 📜 Certifications
 
-## 📜 Certifications
-
-- 🏆 **Cyber Security with AI**
+- 🏆 **Cyber Security with AI** (Pursuing)
 - 🏆 **Diploma in Computer Hardware and Maintenance**
 - 🏆 **ITI – Electrical Certification**
 - 🏆 **Microsoft Certified Technical Associate – Networking Fundamentals**
@@ -225,8 +223,6 @@ I regularly practice cybersecurity concepts using controlled environments and le
 ## 🤝 Let's Connect
 
 I am always interested in connecting with people who are passionate about **Cyber Security, Networking, Ethical Hacking, and Technology**.
-
-## 🤝 Let's Connect
 
 <p align="center">
 
