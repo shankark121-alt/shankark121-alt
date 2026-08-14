@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./cyber.png" width="180" alt="Cyber Security">
+  <img src="https://img.icons8.com/fluency/96/cyber-security.png" width="90">
 </p>
+
 <h1 align="center">🛡️ Shankar Madhukar Kulkarni</h1>
 
 <p align="center">
