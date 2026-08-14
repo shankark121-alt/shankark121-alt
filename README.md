@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.icons8.com/fluency/96/cyber-security.png" width="90">
+  <img src="https://img.icons8.com/fluency/96/security-checked.png" width="90">
 </p>
 
 <h1 align="center">🛡️ Shankar Madhukar Kulkarni</h1>
