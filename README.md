@@ -5,7 +5,7 @@
 <h1 align="center">🛡️ Shankar Madhukar Kulkarni</h1>
 
 <p align="center">
-  <img src="./cyber_security_profile_blink.gif" width="100%" alt="Cyber Security Student | Networking Enthusiast | Security Lab Practitioner">
+  <img src="./cyber_security_profile_blink.gif" width="850" alt="Cyber Security Student | Networking Enthusiast | Security Lab Practitioner">
 </p>
 
 <p align="center">
