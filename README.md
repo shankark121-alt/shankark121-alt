@@ -14,21 +14,7 @@
   </a>
 </p>
 
-# Shankar Kulkarni | Cyber Security Student
 
-<h1 align="center">Hi 👋, I'm Shankar Kulkarni</h1>
-
-<h3 align="center">🛡️ Cyber Security Student | 🌐 Networking Enthusiast | 💻 Security Lab Practitioner</h3>
-
-<p align="center">
-  <a href="https://github.com/shankark121-alt">
-    <img src="https://img.shields.io/badge/GitHub-Shankar%20Kulkarni-black?style=for-the-badge&logo=github">
-  </a>
-  <img src="https://img.shields.io/badge/Cyber%20Security-Student-red?style=for-the-badge&logo=hackthebox">
-  <img src="https://img.shields.io/badge/Networking-Enthusiast-blue?style=for-the-badge&logo=cisco">
-</p>
-
----
 
 ## 👨‍💻 About Me
 
