@@ -5,9 +5,11 @@
 <h1 align="center">🛡️ Shankar Madhukar Kulkarni</h1>
 
 <p align="center">
-  <a href="https://github.com/shankark121-alt">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=900&lines=Cyber+Security+Student;Networking+Enthusiast;Security+Lab+Practitioner" alt="Cyber Security Student | Networking Enthusiast | Security Lab Practitioner">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=900&lines=Cyber+Security+Student" alt="Cyber Security Student">
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00AA00&center=true&vCenter=true&width=900&lines=Networking+Enthusiast" alt="Networking Enthusiast">
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=8000FF&center=true&vCenter=true&width=900&lines=Security+Lab+Practitioner" alt="Security Lab Practitioner">
 </p>
 
 <p align="center">
