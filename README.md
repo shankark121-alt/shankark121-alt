@@ -178,7 +178,7 @@ A practical DVWA project demonstrating **SQL Injection and Blind SQL Injection**
 
 A practical of splunk which is a SIEM tool **Splunk-dashboard-with-web-traffic-logs**  collect, analyze, and act on machine-generated security data in real time
 
-👉 **[View Project]](https://github.com/shankark121-alt/splunk-dashboard-with-web-traffic-logs))**
+👉 **[View Project](https://github.com/shankark121-alt/splunk-dashboard-with-web-traffic-logs))**
 
 
 ## 📚 Currently Learning
