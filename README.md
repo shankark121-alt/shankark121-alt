@@ -184,7 +184,7 @@ A practical of splunk which is a SIEM tool **Splunk-dashboard-with-web-traffic-l
 
 A practical of splunk which is a SIEM tool **Splunk-Dashboard-for-SSH-Logs**  collect, analyze, and act on machine-generated security data in real time
 
-**[View Project](https://github.com/shankark121-alt/Splunk-Dashboard-for-SSH-Logs/edit/main/README.md)**
+**[View Project](https://github.com/shankark121-alt/Splunk-Dashboard-for-SSH-Logs/blob/main/README.md)**
 
 ## 📚 Currently Learning
 
