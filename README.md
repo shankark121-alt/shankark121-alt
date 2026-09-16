@@ -174,13 +174,13 @@ A practical DVWA project demonstrating **SQL Injection and Blind SQL Injection**
 👉 **[View Project](https://github.com/shankark121-alt/SQL-INJECTION-AND-BLIND-SQL-INJECTION-LAB.)**
 
 ---
-### 7. 💉Splunk-dashboard-with-web-traffic-logs Lab
+### 8. 💉Splunk-dashboard-with-web-traffic-logs Lab
 
 A practical of splunk which is a SIEM tool **Splunk-dashboard-with-web-traffic-logs**  collect, analyze, and act on machine-generated security data in real time
 
 👉 **[View Project](https://github.com/shankark121-alt/splunk-dashboard-with-web-traffic-logs)**
 
-## 8. 💉Splunk-Dashboard-for-SSH-Logs-Lab
+## 9. 💉Splunk-Dashboard-for-SSH-Logs-Lab
 
 A practical of splunk which is a SIEM tool **Splunk-Dashboard-for-SSH-Logs**  collect, analyze, and act on machine-generated security data in real time
 
