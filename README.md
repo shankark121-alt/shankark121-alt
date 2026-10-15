@@ -108,11 +108,11 @@ I am continuously improving my technical skills through hands-on labs, cybersecu
 
 ## 📜 Certifications
 
-- 🏆 **Cyber Security with AI** (Pursuing)
 - 🏆 **Diploma in Computer Hardware and Maintenance**
 - 🏆 **ITI – Electrical Certification**
 - 🏆 **Microsoft Certified Technical Associate – Networking Fundamentals**
 - 🏆 **Linux 100 Fundamentals – TCM Security**
+- 🏆 **Cyber Security with AI** (Pursuing)- Skillected.com
 
 ---
 
