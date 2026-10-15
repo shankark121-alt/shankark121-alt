@@ -112,6 +112,7 @@ I am continuously improving my technical skills through hands-on labs, cybersecu
 - 🏆 **Diploma in Computer Hardware and Maintenance**
 - 🏆 **ITI – Electrical Certification**
 - 🏆 **Microsoft Certified Technical Associate – Networking Fundamentals**
+- 🏆 **Linux 100 Fundamentals – TCM Security**
 
 ---
 
