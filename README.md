@@ -191,6 +191,11 @@ A practical of splunk which is a SIEM tool **Splunk-Dashboard-for-SSH-Logs**  co
 
 👉 **[View Project](https://github.com/shankark121-alt/Multi-Factor-Authentication-MFA/blob/main/README.md)**
 
+## 11. 💉 AWS-S3-User-Access-Management
+
+👉 **[View Project](https://github.com/shankark121-alt/AWS-S3-User-Access-Management/blob/main/README.md)**
+
+
 ## 📚 Currently Learning
 
 ```text
