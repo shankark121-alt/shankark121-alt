@@ -193,6 +193,8 @@ A practical of splunk which is a SIEM tool **Splunk-Dashboard-for-SSH-Logs**  co
 
 ## 11. 💉 AWS-S3-User-Access-Management
 
+This project demonstrates how to create and manage an AWS IAM user and securely provide access to an Amazon S3 bucket using IAM policies and permissions.
+
 👉 **[View Project](https://github.com/shankark121-alt/AWS-S3-User-Access-Management/blob/main/README.md)**
 
 
