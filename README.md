@@ -203,6 +203,10 @@ This project demonstrates how to create and manage an AWS IAM user and securely 
 
 👉 **[View Project](https://github.com/shankark121-alt/AWS-EC2-Instance-Deployment/blob/main/README.md)**
 
+## 13. 💉 AWS-CloudWatch-Monitoring
+
+👉 **[View Project](https://github.com/shankark121-alt/AWS-CloudWatch-Monitoring/blob/main/README.md)**
+
 ## 📚 Currently Learning
 
 ```text
