@@ -201,7 +201,7 @@ This project demonstrates how to create and manage an AWS IAM user and securely 
 
 ## 12. 💉 AWS-EC2-Instance-Deployment
 
-👉 **[View Project](https://https://github.com/shankark121-alt/AWS-EC2-Instance-Deployment/blob/main/README.md)**
+👉 **[View Project](https://github.com/shankark121-alt/AWS-EC2-Instance-Deployment/blob/main/README.md)**
 
 ## 📚 Currently Learning
 
