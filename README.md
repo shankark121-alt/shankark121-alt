@@ -200,10 +200,13 @@ This project demonstrates how to create and manage an AWS IAM user and securely 
 👉 **[View Project](https://github.com/shankark121-alt/AWS-S3-User-Access-Management/blob/main/README.md)**
 
 ## 12. 💉 AWS-EC2-Instance-Deployment
+Amazon Elastic Compute Cloud (Amazon EC2) is a cloud computing service provided by Amazon Web Services (AWS). It allows users to create and manage virtual 
+servers in the cloud.
 
 👉 **[View Project](https://github.com/shankark121-alt/AWS-EC2-Instance-Deployment/blob/main/README.md)**
 
 ## 13. 💉 AWS-CloudWatch-Monitoring
+Amazon CloudWatch is a monitoring and observability service provided by Amazon Web Services (AWS). It helps users monitor AWS resources, applications,
 
 👉 **[View Project](https://github.com/shankark121-alt/AWS-CloudWatch-Monitoring/blob/main/README.md)**
 
