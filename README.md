@@ -187,25 +187,32 @@ A practical of splunk which is a SIEM tool **Splunk-Dashboard-for-SSH-Logs**  co
 
 👉 **[View Project](https://github.com/shankark121-alt/Splunk-Dashboard-for-SSH-Logs/blob/main/README.md)**
 
-## 10. 💉 Multi-Factor-Authentication-MFA
+## 10. 💉Wazuh-Installation-And-Configuration
+
+This project demonstrates the installation and configuration of Wazuh, an open-source security monitoring platform used for threat detection, security monitoring, 
+vulnerability detection, log analysis, and incident response.
+
+👉 **[View Project](https://github.com/shankark121-alt/Wazuh-Installation-And-Configuration/blob/main/README.md)**
+
+## 11. 💉 Multi-Factor-Authentication-MFA
 
 Multi-Factor Authentication (MFA) adds an extra layer of protection on top of your username and password credentials.
 
 👉 **[View Project](https://github.com/shankark121-alt/Multi-Factor-Authentication-MFA/blob/main/README.md)**
 
-## 11. 💉 AWS-S3-User-Access-Management
+## 12. 💉 AWS-S3-User-Access-Management
 
 This project demonstrates how to create and manage an AWS IAM user and securely provide access to an Amazon S3 bucket using IAM policies and permissions.
 
 👉 **[View Project](https://github.com/shankark121-alt/AWS-S3-User-Access-Management/blob/main/README.md)**
 
-## 12. 💉 AWS-EC2-Instance-Deployment
+## 13. 💉 AWS-EC2-Instance-Deployment
 Amazon Elastic Compute Cloud (Amazon EC2) is a cloud computing service provided by Amazon Web Services (AWS). It allows users to create and manage virtual 
 servers in the cloud.
 
 👉 **[View Project](https://github.com/shankark121-alt/AWS-EC2-Instance-Deployment/blob/main/README.md)**
 
-## 13. 💉 AWS-CloudWatch-Monitoring
+## 14. 💉 AWS-CloudWatch-Monitoring
 Amazon CloudWatch is a monitoring and observability service provided by Amazon Web Services (AWS). It helps users monitor AWS resources, applications,
 
 👉 **[View Project](https://github.com/shankark121-alt/AWS-CloudWatch-Monitoring/blob/main/README.md)**
