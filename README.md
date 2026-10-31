@@ -174,45 +174,50 @@ A practical DVWA project demonstrating **SQL Injection and Blind SQL Injection**
 
 👉 **[View Project](https://github.com/shankark121-alt/SQL-INJECTION-AND-BLIND-SQL-INJECTION-LAB.)**
 
----
-### 8. 💉Splunk-dashboard-with-web-traffic-logs Lab
+### 8. 💉Burp-Suite-Web-Application-Penetration-Testing
+
+This project demonstrates the practical use of Burp Suite Community Edition for web application security testing and penetration testing.
+
+👉 **[View Project](https://github.com/shankark121-alt/Burp-Suite-Web-Application-Penetration-Testing/blob/main/README.md)**
+
+### 9. 💉Splunk-dashboard-with-web-traffic-logs Lab
 
 A practical of splunk which is a SIEM tool **Splunk-dashboard-with-web-traffic-logs**  collect, analyze, and act on machine-generated security data in real time
 
 👉 **[View Project](https://github.com/shankark121-alt/splunk-dashboard-with-web-traffic-logs)**
 
-## 9. 💉Splunk-Dashboard-for-SSH-Logs-Lab
+## 10. 💉Splunk-Dashboard-for-SSH-Logs-Lab
 
 A practical of splunk which is a SIEM tool **Splunk-Dashboard-for-SSH-Logs**  collect, analyze, and act on machine-generated security data in real time
 
 👉 **[View Project](https://github.com/shankark121-alt/Splunk-Dashboard-for-SSH-Logs/blob/main/README.md)**
 
-## 10. 💉Wazuh-Installation-And-Configuration
+## 11. 💉Wazuh-Installation-And-Configuration
 
 This project demonstrates the installation and configuration of Wazuh, an open-source security monitoring platform used for threat detection, security monitoring, 
 vulnerability detection, log analysis, and incident response.
 
 👉 **[View Project](https://github.com/shankark121-alt/Wazuh-Installation-And-Configuration/blob/main/README.md)**
 
-## 11. 💉 Multi-Factor-Authentication-MFA
+## 12. 💉 Multi-Factor-Authentication-MFA
 
 Multi-Factor Authentication (MFA) adds an extra layer of protection on top of your username and password credentials.
 
 👉 **[View Project](https://github.com/shankark121-alt/Multi-Factor-Authentication-MFA/blob/main/README.md)**
 
-## 12. 💉 AWS-S3-User-Access-Management
+## 13. 💉 AWS-S3-User-Access-Management
 
 This project demonstrates how to create and manage an AWS IAM user and securely provide access to an Amazon S3 bucket using IAM policies and permissions.
 
 👉 **[View Project](https://github.com/shankark121-alt/AWS-S3-User-Access-Management/blob/main/README.md)**
 
-## 13. 💉 AWS-EC2-Instance-Deployment
+## 14. 💉 AWS-EC2-Instance-Deployment
 Amazon Elastic Compute Cloud (Amazon EC2) is a cloud computing service provided by Amazon Web Services (AWS). It allows users to create and manage virtual 
 servers in the cloud.
 
 👉 **[View Project](https://github.com/shankark121-alt/AWS-EC2-Instance-Deployment/blob/main/README.md)**
 
-## 14. 💉 AWS-CloudWatch-Monitoring
+## 15. 💉 AWS-CloudWatch-Monitoring
 Amazon CloudWatch is a monitoring and observability service provided by Amazon Web Services (AWS). It helps users monitor AWS resources, applications,
 
 👉 **[View Project](https://github.com/shankark121-alt/AWS-CloudWatch-Monitoring/blob/main/README.md)**
